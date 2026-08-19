@@ -1,0 +1,7 @@
+# The two large transaction files are too big for GitHub (over 100MB each).
+# They're kept on Google Drive instead - see README for the link.
+train_transaction.csv
+test_transaction.csv
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
